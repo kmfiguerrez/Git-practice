@@ -10,3 +10,5 @@ some extras.
 5th to add
 
 this text is after first commit.
+
+I'll use this text for the command git commit --amend
